@@ -1,0 +1,101 @@
+# CrosMinX Dev Corp — Python Framework Requirements
+
+# ============================================
+# WEB FRAMEWORKS
+# ============================================
+
+# FastAPI - High performance APIs
+fastapi[standard]
+
+# Django - Full web applications
+django
+
+# Flask - Lightweight web apps
+flask
+
+# ============================================
+# API FRAMEWORKS
+# ============================================
+
+# Django REST Framework - REST APIs on Django
+djangorestframework
+
+# ============================================
+# FULL STACK PYTHON
+# ============================================
+
+# Reflex - Full stack web apps in pure Python
+reflex
+
+# Taipy - Data and AI production apps
+taipy
+
+# ============================================
+# DASHBOARD & DATA VISUALIZATION
+# ============================================
+
+# Streamlit - Data dashboards
+streamlit
+
+# Dash - Data visualization
+dash
+
+# Plotly - Charts and graphs
+plotly
+
+# ============================================
+# AI & ML INTERFACES
+# ============================================
+
+# Gradio - AI/ML interfaces
+gradio
+
+# ============================================
+# TERMINAL UI
+# ============================================
+
+# Textual - Terminal UI apps
+textual
+
+# ============================================
+# CORE DEPENDENCIES
+# ============================================
+
+# Pydantic - Data validation
+pydantic
+
+# SQLModel - Database ORM
+sqlmodel
+
+# Uvicorn - ASGI server for FastAPI
+uvicorn[standard]
+
+# Gunicorn - WSGI server for Django/Flask
+gunicorn
+
+# Python-dotenv - Environment variables
+python-dotenv
+
+# Requests - HTTP client
+requests
+
+# Anthropic - AI API
+anthropic
+
+# ============================================
+# DATABASE
+# ============================================
+
+# PostgreSQL adapter
+psycopg2-binary
+
+# SQLAlchemy - ORM
+sqlalchemy
+
+# ============================================
+# DEPLOYMENT
+# ============================================
+
+# Railway compatible
+# Netlify compatible
+# Docker compatible
